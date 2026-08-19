@@ -8,6 +8,7 @@ const NAV_LINKS = [
   { href: '/posts', label: 'Stories' },
   { href: '/destinations', label: 'Destinations' },
   { href: '/authors', label: 'Authors' },
+  { href: '/contact', label: 'Contact' },
 ]
 
 export default function Header() {

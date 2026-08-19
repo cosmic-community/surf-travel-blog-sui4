@@ -31,6 +31,11 @@ export default function Footer() {
                   Authors
                 </Link>
               </li>
+              <li>
+                <Link href="/contact" className="hover:text-white">
+                  Contact
+                </Link>
+              </li>
             </ul>
           </div>
           <div>
